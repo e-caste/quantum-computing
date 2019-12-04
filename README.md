@@ -1,7 +1,7 @@
 # quantum-computing
 ### Jupyter notebooks to understand practical quantum computing  
 
-_"Sì, ma quanto 'quanto'?"  
+_«Sì, ma quanto "quanto"?»  
 cit. Anonimo_
 
 ## Quantum Entanglement
